@@ -1,0 +1,8 @@
+# Node_modules ignorieren
+node_modules/
+
+# coverage ignorieren
+coverage/
+
+# dst ignorieren
+dst/
